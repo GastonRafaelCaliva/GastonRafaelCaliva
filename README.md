@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaston Caliva</h1>
-<h3 align="center">Student at uNSa (Argentinian)</h3>
+<h3 align="center">Currently studying at a university in Argentina [🇦🇷 🏆 💙 🤍 💙] </h3>
 
 - 📱 I’m currently learning Web/Mobile Development and other programming languages
 - 🎵 I like listening to music while programming
