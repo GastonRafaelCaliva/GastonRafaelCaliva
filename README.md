@@ -46,7 +46,7 @@
 
 ### Learning Flutter
   
-| [Simon Says Game](https://) | [Firebase MyAPPanaderia](https://) | [Animation for On-line shop](https://) | [Using Flare](https://) |
+| [Simon Says Game](https://github.com/GastonRafaelCaliva/simon_says_game) | [Firebase MyAPPanaderia](https://github.com/GastonRafaelCaliva/test_firebase_myappanaderia) | [Animation for On-line shop](https://github.com/GastonRafaelCaliva/custom_clipper) | [Using Flare](https://github.com/GastonRafaelCaliva/trying_animations_with_flare_for_flutter) |
 |:----:|:----:|:----:|:----:|
 |  <img src="https://raw.githubusercontent.com/GastonRafaelCaliva/my_gallery/main/Gifs/simon_says_game.gif" width="250">                       |                    <img src="https://raw.githubusercontent.com/GastonRafaelCaliva/my_gallery/main/Gifs/firebase_my_app.gif" width="250">                         |                    <img src="https://raw.githubusercontent.com/GastonRafaelCaliva/my_gallery/main/Gifs/animation_and_customclipper.gif" width="250">             |                      <img src="https://raw.githubusercontent.com/GastonRafaelCaliva/my_gallery/main/Gifs/flare_practice.gif" width="250">                          |    
 
